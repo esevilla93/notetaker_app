@@ -26,6 +26,6 @@
 * Email
  - esevilla93@gmail.com
  
- ##__Deployed Application__:
+ __Deployed Application__:
  
  https://morning-forest-87639.herokuapp.com/
